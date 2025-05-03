@@ -1,0 +1,1 @@
+!nvidia-smi -a -q -d CLOCK
